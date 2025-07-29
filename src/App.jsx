@@ -1,4 +1,4 @@
-import './App.css';
+import './style.css';
 
 function App() {
   return (
@@ -7,6 +7,7 @@ function App() {
       <p>CI/CD and Cloud DevOps</p>
       <p>This is a simple homepage deployed on GitHub Actions using Vite.</p>
       <p>Done with Git pages & Git Actions</p>
+      
     </div>
   );
 }
